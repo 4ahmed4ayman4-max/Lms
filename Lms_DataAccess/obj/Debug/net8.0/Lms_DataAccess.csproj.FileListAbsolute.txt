@@ -1,0 +1,12 @@
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.csproj.AssemblyReference.cache
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.AssemblyInfoInputs.cache
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.AssemblyInfo.cs
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.csproj.CoreCompileInputs.cache
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\bin\Debug\net8.0\Lms_DataAccess.deps.json
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\bin\Debug\net8.0\Lms_DataAccess.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\bin\Debug\net8.0\Lms_DataAccess.pdb
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\refint\Lms_DataAccess.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\Lms_DataAccess.pdb
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_DataAccess\obj\Debug\net8.0\ref\Lms_DataAccess.dll

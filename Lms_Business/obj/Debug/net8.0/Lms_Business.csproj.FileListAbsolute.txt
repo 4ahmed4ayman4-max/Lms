@@ -1,0 +1,15 @@
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.csproj.AssemblyReference.cache
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.AssemblyInfoInputs.cache
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.AssemblyInfo.cs
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.csproj.CoreCompileInputs.cache
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\bin\Debug\net8.0\Lms_Business.deps.json
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\bin\Debug\net8.0\Lms_Business.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\bin\Debug\net8.0\Lms_Business.pdb
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\bin\Debug\net8.0\Lms_DataAccess.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\bin\Debug\net8.0\Lms_DataAccess.pdb
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Busi.429FDCA4.Up2Date
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\refint\Lms_Business.dll
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\Lms_Business.pdb
+E:\Randum_Projects\FirstProject\lms-backend\lms-backend\Lms_Business\obj\Debug\net8.0\ref\Lms_Business.dll
